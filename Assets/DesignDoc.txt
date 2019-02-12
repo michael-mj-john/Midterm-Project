@@ -1,0 +1,6 @@
+Design:
+
+Nyan Cat is spawned
+Spawner spams out pop tarts
+Player steers a toaster around, which the cat will try to avoid. Otherwise it goes to nearest pop tart
+When cat collides with pop tart, points
